@@ -9,4 +9,4 @@ This is a repo for git training(283381736@qq.com)
 - push
 - hahhaha
 
-<img src="1639286906158.jpg" alt="cat" width="30%" />
+<img src="profile/1639286906158.jpg" alt="cat" width="30%" />
