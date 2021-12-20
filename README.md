@@ -6,3 +6,4 @@ This is a repo for git training(283381736@qq.com)
 - init
 - log
 - status
+- push
