@@ -7,3 +7,4 @@ This is a repo for git training(283381736@qq.com)
 - log
 - status
 - push
+- hahhaha
